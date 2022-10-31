@@ -8,7 +8,7 @@ h1{
     height: auto;
     flex-wrap: wrap;
     border: 3px solid plum; 
-    background-color: green;
+    background-color: cyan;
     justify-content: center;
     margin: auto;
     flex-direction: wrap;
